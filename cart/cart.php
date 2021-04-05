@@ -4,7 +4,7 @@ include("../navigation.php");
 
 
 
-    <p></p>
+<div class="container-fluid custom-margin-container">
 
     <!--Row starts-->
     <div class="row">
