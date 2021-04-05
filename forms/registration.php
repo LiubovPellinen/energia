@@ -46,7 +46,7 @@ include('./reg_handler.php');
 
                 <div class="form-group">
                     <label>Salasana</label>
-                    <input type="password" class="form-control" name="user_password" id="user_password" placeholder="LaLa_vip1"/>
+                    <input type="password" class="form-control" name="user_password" id="user_password" placeholder=""/>
 
                     <?php echo $_passwordErr; ?>
                     <?php echo $passwordEmptyErr; ?>
@@ -54,7 +54,7 @@ include('./reg_handler.php');
 
                 <div class="form-group">
                     <label>Vahvista salasana</label>
-                    <input type="password" class="form-control" name="user_password_2" id="user_password_2" placeholder="LaLa_vip1"/>
+                    <input type="password" class="form-control" name="user_password_2" id="user_password_2" placeholder=""/>
 
                     <?php echo $password_2_EmptyErr; ?>
                     <?php echo $passwords_notequal; ?>                    
