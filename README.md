@@ -12,3 +12,4 @@ This is pair training project: Web site for gym "Energia"  (in finnish language)
 8. System of sending of feedback by users
 9. Cart: put product to cart, change quantity of products (without payment)
 
+link : https://liubovp.azurewebsites.net/index.php
