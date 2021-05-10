@@ -1,7 +1,7 @@
 # energia
-This is pair training project: Web site for gym "Energia"  (in finnish language) for the course "Web programming" in Omnia, The Joint Authority of Education in the Espoo Region. Was used PHP, JavaScript, HTML5, CSS, Bootstrap 4.
+This is pair training project: Web site for gym "Energia"  (in finnish language) for the course "Web programming" in Omnia, The Joint Authority of Education in the Espoo Region. Was used PHP, JavaScript, HTML5, CSS, Bootstrap 4. Data storage was realysed by using of MySQL data base.
 
-## In the project was realised followng funnctionality:
+### In the project was realised followng funnctionality:
 1. Registration of users using e-mail
 2. Log in, log out
 3. Reset password using e-mail
@@ -11,6 +11,4 @@ This is pair training project: Web site for gym "Energia"  (in finnish language)
 7. Adding and changing of workouts by administrator
 8. System of sending of feedback by users
 9. Cart: put product to cart, change quantity of products (without payment)
-
-## Data storage was realysed by using of MySQL data base.
 
